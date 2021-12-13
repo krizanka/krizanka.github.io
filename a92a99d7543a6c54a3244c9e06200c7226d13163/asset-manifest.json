@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/a92a99d7543a6c54a3244c9e06200c7226d13163/static/css/main.c85e91be.chunk.css",
+    "main.js": "/a92a99d7543a6c54a3244c9e06200c7226d13163/static/js/main.dc3839a8.chunk.js",
+    "main.js.map": "/a92a99d7543a6c54a3244c9e06200c7226d13163/static/js/main.dc3839a8.chunk.js.map",
+    "runtime-main.js": "/a92a99d7543a6c54a3244c9e06200c7226d13163/static/js/runtime-main.56bd46de.js",
+    "runtime-main.js.map": "/a92a99d7543a6c54a3244c9e06200c7226d13163/static/js/runtime-main.56bd46de.js.map",
+    "static/js/2.88120a08.chunk.js": "/a92a99d7543a6c54a3244c9e06200c7226d13163/static/js/2.88120a08.chunk.js",
+    "static/js/2.88120a08.chunk.js.map": "/a92a99d7543a6c54a3244c9e06200c7226d13163/static/js/2.88120a08.chunk.js.map",
+    "index.html": "/a92a99d7543a6c54a3244c9e06200c7226d13163/index.html",
+    "service-worker.js": "/a92a99d7543a6c54a3244c9e06200c7226d13163/service-worker.js",
+    "service-worker.js.map": "/a92a99d7543a6c54a3244c9e06200c7226d13163/service-worker.js.map",
+    "static/css/main.c85e91be.chunk.css.map": "/a92a99d7543a6c54a3244c9e06200c7226d13163/static/css/main.c85e91be.chunk.css.map",
+    "static/js/2.88120a08.chunk.js.LICENSE.txt": "/a92a99d7543a6c54a3244c9e06200c7226d13163/static/js/2.88120a08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56bd46de.js",
+    "static/js/2.88120a08.chunk.js",
+    "static/css/main.c85e91be.chunk.css",
+    "static/js/main.dc3839a8.chunk.js"
+  ]
+}
